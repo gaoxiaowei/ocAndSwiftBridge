@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AudioKit (2.3)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - AudioKit
+  - SwiftyJSON (~> 4.0)
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AudioKit: 393be71739265448039ef268f3582dee82783b0d
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: af9fb9db612b7323bead1fa7d6c27d7f31b81d2a
+
+COCOAPODS: 1.4.0
